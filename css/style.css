@@ -1,0 +1,8 @@
+.container{
+    max-width: 2366px;
+    width: 100%;
+    background-image: url("../leaf.svg");
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
